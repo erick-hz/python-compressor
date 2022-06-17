@@ -1,5 +1,4 @@
 from PIL import Image # pip install Pillow
-
 import os
 
 downloadsFolder = "/Users/yeric/Downloads/" #Insert the folder where you store the images 
