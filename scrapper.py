@@ -1,4 +1,4 @@
-import requests # python3 -m pip install requests beautifulsoup4
+import requests # pip install requests beautifulsoup4
 from bs4 import BeautifulSoup
 
 url = "https://www.seek.co.nz/python-jobs?salaryrange=100000-999999&salarytype=annual"
